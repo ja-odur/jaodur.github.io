@@ -1,10 +1,5 @@
 # jaodur.github.io
-the url of the pages are:\n 
-jaodur.github.io/book-A-Meal%20ui/signin_signup.html ->for user signup and signin 
-
-jaodur.github.io/book-A-Meal%20ui/auth_users.html -> for authorized user. Note Not yet complete
-
-not yet implemeted ->jaodur.github.io/book-A-Meal%20ui/auth_caterers.html
+The links of the UI interface of the Book-A-Meal app are listed below
 
 |Link|
 |---------|
