@@ -5,5 +5,5 @@ The links of the UI interface of the Book-A-Meal app are listed below
 |---------|
 |[signup and signin](https://jaodur.github.io/book-A-Meal%20ui/signin_signup.html)|
 |[Authorized users](https://jaodur.github.io/book-A-Meal%20ui/auth_users.html)|
-|[Authorized users](https://jaodur.github.io/book-A-Meal%20ui/auth_caterer.html)|
+|[Authorized carters](https://jaodur.github.io/book-A-Meal%20ui/auth_caterer.html)|
 
